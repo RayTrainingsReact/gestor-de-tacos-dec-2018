@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Component {
+  border: 1.5px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+}
